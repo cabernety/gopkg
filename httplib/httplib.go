@@ -23,6 +23,7 @@ import (
 	"strings"
 	"sync"
 	"time"
+	"fmt"
 )
 
 var defaultSetting = Settings{false, "GogsServer", 60 * time.Second, 60 * time.Second, nil, nil, nil, false}
@@ -289,6 +290,7 @@ func (r *Request) getResponse() (*http.Response, error) {
 		}
 	}
 
+	fmt.Printf("httplib url -> %s\n", r.url)
 	url, err := url.Parse(r.url)
 	if err != nil {
 		return nil, err
