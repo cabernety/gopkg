@@ -5,8 +5,6 @@ import (
 	"io"
 	"io/ioutil"
 	"net/http"
-
-	"github.com/Sirupsen/logrus"
 )
 
 type respResults struct {
@@ -20,7 +18,6 @@ func ParseResp(body io.ReadCloser) (int, string, interface{}, error) {
 	if err != nil {
 		return -1, "", nil, err
 	}
-	logrus.Debugf("resp body: %s", string(b))
 	var re respResults
 	if err := json.Unmarshal(b, &re); err != nil {
 		return -1, "", nil, err
