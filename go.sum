@@ -1,0 +1,10 @@
+github.com/Sirupsen/logrus v1.0.4 h1:yilvuj073Hm7wwwz12E96GjrdivMNuTMJk9ddjde+D8=
+github.com/Sirupsen/logrus v1.0.4/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/rs/cors v0.0.0-20170727213201-7af7a1e09ba3 h1:86ukAHRTa2CXdBnWJHcjjPPGTyLGEF488OFRsbBAuFs=
+github.com/rs/cors v0.0.0-20170727213201-7af7a1e09ba3/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
+github.com/streadway/amqp v0.0.0-20180118175716-54ded0531dfd h1:i76NWYGbWcy4FToCvWlyy8tK1gDwc4nmdwY1U2b1WWQ=
+github.com/streadway/amqp v0.0.0-20180118175716-54ded0531dfd/go.mod h1:1WNBiOZtZQLpVAyu0iTduoJL9hEsMloAK5XWrtW0xdY=
+golang.org/x/crypto v0.0.0-20180123095555-3d37316aaa6b h1:VqIuNRBMdkwj3QmFfZdCw5Mzlv4BFaMda+dzdi9gAIQ=
+golang.org/x/crypto v0.0.0-20180123095555-3d37316aaa6b/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/sys v0.0.0-20180125080817-ef802241c90f h1:gmASKo/i8yeq+Itu4FLQ8TTEY+1D0o4viwnE/chaTYg=
+golang.org/x/sys v0.0.0-20180125080817-ef802241c90f/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=

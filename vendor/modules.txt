@@ -1,0 +1,11 @@
+# github.com/Sirupsen/logrus v1.0.4
+github.com/Sirupsen/logrus
+# github.com/rs/cors v0.0.0-20170727213201-7af7a1e09ba3
+github.com/rs/cors
+# github.com/streadway/amqp v0.0.0-20180118175716-54ded0531dfd
+github.com/streadway/amqp
+# golang.org/x/crypto v0.0.0-20180123095555-3d37316aaa6b
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.0.0-20180125080817-ef802241c90f
+golang.org/x/sys/unix
+golang.org/x/sys/windows
